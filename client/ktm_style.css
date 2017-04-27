@@ -1,0 +1,17 @@
+body {
+  background-color: #B1D0CA;
+  color: white;
+  font-family: "Comic Sans MS", cursive, sans-serif; 
+  margin: 20px;
+} 
+ 
+main {
+  background-color: #738B9A;
+  margin: 200px auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+#dvsays1 {
+    background-color: #8196A4; 
+}
